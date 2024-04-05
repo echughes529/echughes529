@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @echughes529
-- 👀 I’m interested in quantum information science, machine learning and cybersecurity.
-- 🌱 I’m currently expanding my knowledge of C.
-- 💞️ I’m looking to collaborate on projects relating to any of my stated interests:)
-- 📫 You can reach me by email: echughes529@gmail.com
+
